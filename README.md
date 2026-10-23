@@ -1,172 +1,114 @@
-<div align="center">
+![Controlled Chaos](assets/name-header.svg)
 
-<img src="assets/name-header.svg" width="100%" alt="Samman Sajjad — a doodly Controlled Chaos developer header" />
+<p align="center">
+  𝓬𝓸𝓭𝓮, 𝓬𝓱𝓪𝓸𝓼 & 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓫𝓲𝓽 𝓸𝓯 𝓫𝓻𝓲𝓵𝓵𝓲𝓪𝓷𝓬𝓮
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=18&duration=2800&pause=900&color=F59BB5&center=true&vCenter=true&width=650&lines=Building+things+that+think.;Teaching+machines+to+see.;Debugging+my+way+through+life.;Currently+turning+ideas+into+code." alt="A rotating introduction" />
-
-<p><code>SAME PERSON.</code> &nbsp; <code>MULTIPLE IDEAS.</code> &nbsp; <code>ZERO SLEEP.</code></p>
-
-</div>
-
----
-
-<div align="center">
-<img src="assets/about-doodle.svg" width="100%" alt="A little about me" />
-</div>
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-I'm a Computer Science student exploring the intersection of **software engineering, artificial intelligence, and computer vision**.
-
-I like solving problems, building useful systems, and turning ideas into something real—even if it takes a few bugs, a lot of debugging, and an unreasonable number of commits.
-
-- Building a **University Timetable AI Agent**
-- Developing a **Computer Vision-Based ECHO Scan Analysis Application**
-- Exploring machine learning, deep learning, and intelligent systems
-- Learning by building, breaking, debugging, and rebuilding
-
-<blockquote>
-<b>“My code runs on 10% commitment, 10% confidence, and 80% stress.”</b>
-</blockquote>
-
-</td>
-<td width="42%" valign="top">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CURRENT_STATUS-LEARNING_BY_BUILDING-D8E84E?style=for-the-badge&labelColor=171318&color=D8E84E" alt="Current status: learning by building" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/COFFEE-DEBUG-F59BB5?style=flat-square" alt="" />
-
-<pre>
-  .-=========-.
-  \   DEBUG  /
-   \_______/
-   (_______)
-    \_____/
-</pre>
-
-<sub>small steps. messy drafts. real progress.</sub>
-
-</div>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/sammansajjad">
+    <img src="https://img.shields.io/badge/GitHub-171318?style=for-the-badge&logo=github&logoColor=FFE45C" alt="𝓖𝓲𝓽𝓗𝓾𝓫" />
+  </a>
+  <a href="https://www.linkedin.com/in/samman-sajjad-96887a397">
+    <img src="https://img.shields.io/badge/LinkedIn-171318?style=for-the-badge&logo=linkedin&logoColor=F59BB5" alt="𝓛𝓲𝓷𝓴𝓮𝓭𝓘𝓷" />
+  </a>
+  <a href="mailto:sammansajjad156@gmail.com">
+    <img src="https://img.shields.io/badge/Email-171318?style=for-the-badge&logo=gmail&logoColor=D8E84E" alt="𝓔𝓶𝓪𝓲𝓵" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-<img src="assets/projects-doodle.svg" width="100%" alt="What I'm building" />
-</div>
+![𝓐𝓫𝓸𝓾𝓽 𝓜𝓮](assets/about-doodle.svg)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  𝓱𝓮𝔂𝓪 !! 𝓲'𝓶 𝓼𝓪𝓶𝓶𝓪𝓷 ♡
+</p>
 
-<h3 align="center">✳ University Timetable AI Agent</h3>
+<p align="center">
+  𝓪 𝓬𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓼𝓬𝓲𝓮𝓷𝓬𝓮 𝓼𝓽𝓾𝓭𝓮𝓷𝓽 𝔀𝓱𝓸 𝓵𝓲𝓴𝓮𝓼 𝓽𝓾𝓻𝓷𝓲𝓷𝓰 𝓲𝓭𝓮𝓪𝓼 𝓲𝓷𝓽𝓸 𝓪𝓬𝓽𝓾𝓪𝓵 𝓽𝓱𝓲𝓷𝓰𝓼 !!
+</p>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Python-D8E84E?style=flat-square&logo=python&logoColor=171318" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-61D4D4?style=flat-square&logo=fastapi&logoColor=171318" alt="FastAPI" />
-<img src="https://img.shields.io/badge/MySQL-DCCCF5?style=flat-square&logo=mysql&logoColor=171318" alt="MySQL" />
-</div>
+✿ 𝓫𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓪𝓷 𝓐𝓘-𝓹𝓸𝔀𝓮𝓻𝓮𝓭 𝓾𝓷𝓲𝓿𝓮𝓻𝓼𝓲𝓽𝔂 𝓽𝓲𝓶𝓮𝓽𝓪𝓫𝓵𝓮 𝓪𝓰𝓮𝓷𝓽
 
-An AI-powered university scheduling application combining natural-language interaction with deterministic, constraint-based timetable generation.
+✿ 𝓮𝔁𝓹𝓵𝓸𝓻𝓲𝓷𝓰 𝓬𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓿𝓲𝓼𝓲𝓸𝓷 𝓯𝓸𝓻 𝓮𝓬𝓱𝓸𝓬𝓪𝓻𝓭𝓲𝓸𝓰𝓻𝓪𝓹𝓱𝔂
 
-<sub>↳ backend engineering / LLM integration / scheduling optimization</sub>
+✿ 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓫𝔂 𝓮𝔁𝓹𝓮𝓻𝓲𝓶𝓮𝓷𝓽𝓲𝓷𝓰, 𝓭𝓮𝓫𝓾𝓰𝓰𝓲𝓷𝓰 & 𝓯𝓲𝓰𝓾𝓻𝓲𝓷𝓰 𝓽𝓱𝓲𝓷𝓰𝓼 𝓸𝓾𝓽
 
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">✳ ECHO Scan Analysis</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/COMPUTER_VISION-F04A87?style=flat-square&logoColor=171318" alt="Computer vision" />
-<img src="https://img.shields.io/badge/DEEP_LEARNING-7445B8?style=flat-square&logoColor=FFF9D9" alt="Deep learning" />
-<img src="https://img.shields.io/badge/CAMUS-D8E84E?style=flat-square&logoColor=171318" alt="CAMUS dataset" />
-</div>
-
-A research-oriented computer vision project focused on left ventricle segmentation and image-derived measurements from echocardiography scans.
-
-<sub>↳ preprocessing / segmentation / model evaluation</sub>
-
-<br/>
-
-<sub>Educational research prototype — not a clinically validated diagnostic system.</sub>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<sub>✳ two projects, twelve open tabs, and one suspiciously loud laptop fan.</sub>
-</div>
+✿ 𝓼𝓽𝓻𝓲𝓿𝓲𝓷𝓰 𝓽𝓸 𝓫𝓾𝓲𝓵𝓭 𝓼𝓶𝓪𝓻𝓽𝓮𝓻 𝓼𝔂𝓼𝓽𝓮𝓶𝓼, 𝓸𝓷𝓮 𝓫𝓾𝓰 𝓪𝓽 𝓪 𝓽𝓲𝓶𝓮 ♡
 
 ---
 
-<div align="center">
-<img src="assets/toolbox-doodle.svg" width="100%" alt="The toolbox" />
-<img src="assets/toolbox-stickers.svg" width="100%" alt="Colorful sticker-style languages and tools" />
-</div>
+![𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼](assets/projects-doodle.svg)
 
-<div align="center">
+### ✿ 𝓤𝓷𝓲𝓿𝓮𝓻𝓼𝓲𝓽𝔂 𝓣𝓲𝓶𝓮𝓽𝓪𝓫𝓵𝓮 𝓐𝓘 𝓐𝓰𝓮𝓷𝓽
 
-**ALSO IN THE MIX**
+𝓪𝓷 𝓐𝓘-𝓪𝓼𝓼𝓲𝓼𝓽𝓮𝓭 𝓼𝓬𝓱𝓮𝓭𝓾𝓵𝓲𝓷𝓰 𝓹𝓻𝓸𝓳𝓮𝓬𝓽 𝓽𝓱𝓪𝓽 𝓬𝓸𝓶𝓫𝓲𝓷𝓮𝓼 𝓷𝓪𝓽𝓾𝓻𝓪𝓵-𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮 𝓲𝓷𝓽𝓮𝓻𝓪𝓬𝓽𝓲𝓸𝓷 𝔀𝓲𝓽𝓱 𝓭𝓮𝓽𝓮𝓻𝓶𝓲𝓷𝓲𝓼𝓽𝓲𝓬 𝓼𝓬𝓱𝓮𝓭𝓾𝓵𝓲𝓷𝓰.
 
-<img src="https://img.shields.io/badge/HTML5-F29B38?style=flat-square&logo=html5&logoColor=171318" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-F04A87?style=flat-square&logo=css3&logoColor=171318" alt="CSS3" />
-<img src="https://img.shields.io/badge/Git-E92832?style=flat-square&logo=git&logoColor=FFF9D9" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-DCCCF5?style=flat-square&logo=github&logoColor=171318" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-61D4D4?style=flat-square&logo=visualstudiocode&logoColor=171318" alt="Visual Studio Code" />
+↳ 𝓫𝓾𝓲𝓵𝓽 𝓪𝓻𝓸𝓾𝓷𝓭 𝓪 𝓕𝓪𝓼𝓽𝓐𝓟𝓘 𝓫𝓪𝓬𝓴𝓮𝓷𝓭 𝓪𝓷𝓭 𝓜𝔂𝓢𝓠𝓛 𝓭𝓪𝓽𝓪𝓫𝓪𝓼𝓮
 
-<br/><br/>
-<sub>LESS PERFECTION. MORE EXPERIMENTATION.</sub>
+↳ 𝓮𝔁𝓹𝓵𝓸𝓻𝓲𝓷𝓰 𝓛𝓛𝓜-𝓹𝓸𝔀𝓮𝓻𝓮𝓭 𝓷𝓪𝓽𝓾𝓻𝓪𝓵-𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮 𝓲𝓷𝓽𝓮𝓻𝓪𝓬𝓽𝓲𝓸𝓷
 
-</div>
+↳ 𝓯𝓸𝓬𝓾𝓼𝓮𝓭 𝓸𝓷 𝓬𝓸𝓷𝓼𝓽𝓻𝓪𝓲𝓷𝓽-𝓫𝓪𝓼𝓮𝓭 𝓾𝓷𝓲𝓿𝓮𝓻𝓼𝓲𝓽𝔂 𝓼𝓬𝓱𝓮𝓭𝓾𝓵𝓲𝓷𝓰
 
----
+**𝓽𝓮𝓬𝓱 𝓼𝓽𝓪𝓬𝓴:** `Python` · `FastAPI` · `MySQL` · `LLMs` · `OR-Tools`
 
-<div align="center">
-<img src="assets/github-doodle.svg" width="100%" alt="GitHub corner" />
+### ✿ 𝓒𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓥𝓲𝓼𝓲𝓸𝓷 — 𝓔𝓒𝓗𝓞 𝓢𝓬𝓪𝓷 𝓐𝓷𝓪𝓵𝔂𝓼𝓲𝓼
 
-<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sammansajjad&show_icons=true&hide_border=true&bg_color=171318&title_color=F04A87&text_color=FFF9D9&icon_color=D8E84E&ring_color=61D4D4" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sammansajjad&layout=compact&hide_border=true&bg_color=171318&title_color=F04A87&text_color=FFF9D9" alt="Most used languages" />
+𝓪 𝓻𝓮𝓼𝓮𝓪𝓻𝓬𝓱-𝓸𝓻𝓲𝓮𝓷𝓽𝓮𝓭 𝓹𝓻𝓸𝓳𝓮𝓬𝓽 𝓮𝔁𝓹𝓵𝓸𝓻𝓲𝓷𝓰 𝓵𝓮𝓯𝓽 𝓿𝓮𝓷𝓽𝓻𝓲𝓬𝓵𝓮 (𝓛𝓥) 𝓼𝓮𝓰𝓶𝓮𝓷𝓽𝓪𝓽𝓲𝓸𝓷 𝓪𝓷𝓭 𝓲𝓶𝓪𝓰𝓮-𝓭𝓮𝓻𝓲𝓿𝓮𝓭 𝓶𝓮𝓪𝓼𝓾𝓻𝓮𝓶𝓮𝓷𝓽𝓼 𝓯𝓻𝓸𝓶 𝓮𝓬𝓱𝓸𝓬𝓪𝓻𝓭𝓲𝓸𝓰𝓻𝓪𝓹𝓱𝔂 𝓲𝓶𝓪𝓰𝓮𝓼.
 
-<br/><br/>
+↳ 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝔀𝓲𝓽𝓱 𝓽𝓱𝓮 𝓒𝓐𝓜𝓤𝓢 𝓮𝓬𝓱𝓸𝓬𝓪𝓻𝓭𝓲𝓸𝓰𝓻𝓪𝓹𝓱𝔂 𝓭𝓪𝓽𝓪𝓼𝓮𝓽
 
-<img src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=sammansajjad&bg_color=171318&color=FFF9D9&line=F04A87&point=D8E84E&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
+↳ 𝓫𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓪 𝓹𝓲𝓹𝓮𝓵𝓲𝓷𝓮 𝓯𝓸𝓻 𝓲𝓶𝓪𝓰𝓮 𝓹𝓻𝓮𝓹𝓻𝓸𝓬𝓮𝓼𝓼𝓲𝓷𝓰, 𝓛𝓥 𝓼𝓮𝓰𝓶𝓮𝓷𝓽𝓪𝓽𝓲𝓸𝓷 & 𝓶𝓮𝓪𝓼𝓾𝓻𝓮𝓶𝓮𝓷𝓽 𝓮𝔁𝓽𝓻𝓪𝓬𝓽𝓲𝓸𝓷
 
-<br/>
-<sub>little green squares. little steps forward.</sub>
-</div>
+↳ 𝓯𝓸𝓬𝓾𝓼𝓮𝓭 𝓸𝓷 𝓮𝓭𝓾𝓬𝓪𝓽𝓲𝓸𝓷𝓪𝓵 𝓪𝓷𝓭 𝓻𝓮𝓼𝓮𝓪𝓻𝓬𝓱 𝓾𝓼𝓮 — 𝓷𝓸𝓽 𝓪 𝓬𝓵𝓲𝓷𝓲𝓬𝓪𝓵𝓵𝔂 𝓿𝓪𝓵𝓲𝓭𝓪𝓽𝓮𝓭 𝓭𝓲𝓪𝓰𝓷𝓸𝓼𝓽𝓲𝓬 𝓼𝔂𝓼𝓽𝓮𝓶
+
+**𝓽𝓮𝓬𝓱 𝓼𝓽𝓪𝓬𝓴:** `Python` · `NumPy` · `PyTorch` · `Computer Vision` · `CAMUS`
 
 ---
 
-<div align="center">
-<img src="assets/connect-doodle.svg" width="100%" alt="Let's connect" />
+![𝓣𝓸𝓸𝓵𝓫𝓸𝔁](assets/toolbox-doodle.svg)
 
-<a href="https://www.linkedin.com/in/samman-sajjad-96887a397">
-  <img src="https://img.shields.io/badge/LinkedIn-3155D9?style=for-the-badge&logo=linkedin&logoColor=FFF9D9" alt="LinkedIn" />
-</a>
-<a href="mailto:sammansajjad156@gmail.com">
-  <img src="https://img.shields.io/badge/Email-E92832?style=for-the-badge&logo=gmail&logoColor=FFF9D9" alt="Email" />
-</a>
+<p align="center">
+  <img src="assets/toolbox-stickers.svg" alt="𝓓𝓸𝓸𝓭𝓵𝔂 𝓽𝓸𝓸𝓵𝓫𝓸𝔁" />
+</p>
 
-<br/><br/>
+<p align="center">
+  𝓫𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓶𝔂 𝓼𝓴𝓲𝓵𝓵𝓼, 𝓸𝓷𝓮 𝓹𝓻𝓸𝓳𝓮𝓬𝓽 𝓪𝓽 𝓪 𝓽𝓲𝓶𝓮 ♡
+</p>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer quote" />
+---
 
-<br/><br/>
+![𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼](assets/github-doodle.svg)
 
-<sub><i>“First, solve the problem. Then, write the code.”</i></sub>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sammansajjad&show_icons=true&hide_border=true&bg_color=171318&title_color=FFE45C&text_color=FFF9D9&icon_color=F59BB5" alt="𝓖𝓲𝓽𝓗𝓾𝓫 𝓼𝓽𝓪𝓽𝓼" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sammansajjad&layout=compact&hide_border=true&bg_color=171318&title_color=FFE45C&text_color=FFF9D9" alt="𝓜𝓸𝓼𝓽 𝓾𝓼𝓮𝓭 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=sammansajjad&bg_color=171318&color=FFF9D9&line=F59BB5&point=FFE45C&area=true&hide_border=true" alt="𝓖𝓲𝓽𝓗𝓾𝓫 𝓬𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷 𝓰𝓻𝓪𝓹𝓱" />
+</p>
 
-<sub>✳ still figuring things out — and that's the point.</sub>
+---
 
-</div>
+![𝓒𝓸𝓷𝓷𝓮𝓬𝓽](assets/connect-doodle.svg)
+
+<p align="center">
+  𝓵𝓮𝓽'𝓼 𝓬𝓸𝓷𝓷𝓮𝓬𝓽, 𝓼𝔀𝓪𝓹 𝓲𝓭𝓮𝓪𝓼, 𝓸𝓻 𝓫𝓾𝓲𝓵𝓭 𝓼𝓸𝓶𝓮𝓽𝓱𝓲𝓷𝓰 𝓬𝓸𝓸𝓵 !!
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samman-sajjad-96887a397">𝓛𝓲𝓷𝓴𝓮𝓭𝓘𝓷</a>
+  ✿
+  <a href="mailto:sammansajjad156@gmail.com">𝓔𝓶𝓪𝓲𝓵</a>
+  ✿
+  <a href="https://github.com/sammansajjad">𝓖𝓲𝓽𝓗𝓾𝓫</a>
+</p>
+
+<p align="center">
+  𝓶𝔂 𝓬𝓸𝓭𝓮 𝓻𝓾𝓷𝓼 𝓸𝓷 10% 𝓬𝓸𝓶𝓶𝓲𝓽𝓶𝓮𝓷𝓽, 10% 𝓬𝓸𝓷𝓯𝓲𝓭𝓮𝓷𝓬𝓮, 𝓪𝓷𝓭 80% 𝓼𝓽𝓻𝓮𝓼𝓼.
+</p>
+
+<p align="center">
+  𝓶𝓪𝓭𝓮 𝔀𝓲𝓽𝓱 𝓬𝓾𝓻𝓲𝓸𝓼𝓲𝓽𝔂, 𝓬𝓸𝓯𝓯𝓮𝓮 & 𝓺𝓾𝓮𝓼𝓽𝓲𝓸𝓷𝓪𝓫𝓵𝓮 𝓭𝓮𝓫𝓾𝓰𝓰𝓲𝓷𝓰 𝓱𝓪𝓫𝓲𝓽𝓼 ♡
+</p>
