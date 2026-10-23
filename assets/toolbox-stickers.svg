@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460" role="img" aria-labelledby="t d">
+<title id="t">Sticker-style toolbox</title><desc id="d">Colorful hand-arranged developer tool tiles.</desc>
+<rect width="1000" height="460" rx="22" fill="#171318"/>
+<path d="M35 37 Q250 14 500 35 T963 33 L954 426 Q500 446 41 425Z" fill="none" stroke="#61D4D4" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M145 70 Q500 48 855 70" fill="none" stroke="#F04A87" stroke-width="2.5"/>
+<text x="500" y="61" text-anchor="middle" fill="#DCCCF5" font-family="Comic Sans MS, Trebuchet MS, cursive" font-size="20" font-style="italic">languages · frameworks · tools · databases</text>
+<!-- sticker tiles -->
+<g font-family="Trebuchet MS, Arial, sans-serif" font-weight="700" text-anchor="middle" fill="#171318">
+ <g transform="rotate(-2 180 150)"><rect x="95" y="94" width="135" height="105" rx="20" fill="#D8E84E"/><text x="162" y="147" font-size="31">Py</text><text x="162" y="178" font-size="15" letter-spacing="2">PYTHON</text></g>
+ <g transform="rotate(2 360 150)"><rect x="292" y="94" width="135" height="105" rx="20" fill="#F59BB5"/><text x="359" y="148" font-size="31">JS</text><text x="359" y="178" font-size="14" letter-spacing="1.5">JAVASCRIPT</text></g>
+ <g transform="rotate(-1 540 150)"><rect x="472" y="94" width="135" height="105" rx="20" fill="#F29B38"/><text x="539" y="148" font-size="31">J</text><text x="539" y="178" font-size="15" letter-spacing="2">JAVA</text></g>
+ <g transform="rotate(2 720 150)"><rect x="652" y="94" width="135" height="105" rx="20" fill="#61D4D4"/><text x="719" y="148" font-size="31">C++</text><text x="719" y="178" font-size="15" letter-spacing="2">C PLUS PLUS</text></g>
+ <g transform="rotate(-2 180 285)"><rect x="95" y="230" width="135" height="105" rx="20" fill="#DCCCF5"/><text x="162" y="283" font-size="31">SQL</text><text x="162" y="313" font-size="15" letter-spacing="2">DATABASES</text></g>
+ <g transform="rotate(2 360 285)"><rect x="292" y="230" width="135" height="105" rx="20" fill="#61D4D4"/><text x="359" y="283" font-size="31">⚛</text><text x="359" y="313" font-size="15" letter-spacing="2">REACT</text></g>
+ <g transform="rotate(-2 540 285)"><rect x="472" y="230" width="135" height="105" rx="20" fill="#D8E84E"/><text x="539" y="283" font-size="27">API</text><text x="539" y="313" font-size="15" letter-spacing="2">FASTAPI</text></g>
+ <g transform="rotate(2 720 285)"><rect x="652" y="230" width="135" height="105" rx="20" fill="#F04A87"/><text x="719" y="283" font-size="29">DB</text><text x="719" y="313" font-size="15" letter-spacing="2">MYSQL</text></g>
+</g>
+<!-- margin doodles -->
+<path d="M63 147 l9 -20 l9 20 l20 2 l-15 12 l5 19 l-19 -10 l-18 10 l5 -19 l-15 -12Z" fill="none" stroke="#FFE45C" stroke-width="3"/>
+<path d="M845 255 q-20 -23 -38 0 q-9 20 38 47 q47 -27 38 -47 q-18 -23 -38 0Z" fill="none" stroke="#F04A87" stroke-width="3"/>
+<text x="840" y="330" text-anchor="middle" fill="#F59BB5" font-family="Comic Sans MS, Trebuchet MS, cursive" font-size="16" font-style="italic" transform="rotate(-9 840 330)">same brain,</text>
+<text x="840" y="350" text-anchor="middle" fill="#F59BB5" font-family="Comic Sans MS, Trebuchet MS, cursive" font-size="16" font-style="italic" transform="rotate(-9 840 350)">different tools</text>
+<path d="M822 376 l12 -12 l1 17 l16 -9" fill="none" stroke="#D8E84E" stroke-width="3" stroke-linecap="round"/>
+<text x="500" y="393" text-anchor="middle" fill="#FFF9D9" font-family="Comic Sans MS, Trebuchet MS, cursive" font-size="18" font-style="italic">code · compile · repeat</text>
+<path d="M390 407 Q500 417 611 406" fill="none" stroke="#F04A87" stroke-width="3" stroke-linecap="round"/>
+</svg>
